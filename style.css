@@ -176,3 +176,4 @@ body { background: #e9f2f2; }
 .eq-selitem { flex: 1; min-width: 0; }
 .eq-selbox { flex: none; width: 34px; height: 34px; margin-top: 14px; border: 1.5px solid #c4dddc; border-radius: 12px; background: #fff; color: #0b7a5a; display: grid; place-items: center; cursor: pointer; }
 .eq-selbox.on { background: #e2f3ec; border-color: #0b7a5a; }
+.eq-export { width: 100%; box-sizing: border-box; margin-top: 8px; padding: 8px; font-family: monospace; font-size: 10px; line-height: 1.4; border: 1px solid #b9d3cd; border-radius: 10px; background: #f4faf8; color: #1d3a35; direction: ltr; text-align: left; resize: none; }
