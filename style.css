@@ -195,3 +195,6 @@ button.eq-st-btn.on { box-shadow: inset 0 0 0 3px rgba(15,90,99,.55); }
 .eq-status-row { flex-wrap: nowrap; }
 .eq-status-row .eq-st { font-size: 12px; min-width: 0; text-align: center; }
 .eq-st-ico svg { width: 16px; height: 16px; }
+.eq-decom-rec { display: flex; align-items: center; justify-content: space-between; gap: 8px; padding: 10px 12px; margin: 6px 0; border-radius: 12px; background: #fbfdfd; border: 1.5px solid #c4dddc; }
+.eq-decom-rec b { display: block; font-size: 15px; color: #123c42; }
+.eq-decom-rec small { color: #6b7c7e; font-size: 12px; }
